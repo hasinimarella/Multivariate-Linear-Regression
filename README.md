@@ -24,8 +24,8 @@ Print the parameters of tghe linear function.End the program.
 ```
 '''
 #Program to implement multivariate linear regression and predict the output.
-#Developed by: RAMESH RENUKA
-#RegisterNumber: 212223240136
+#Developed by: MARELLA HASINI
+#RegisterNumber: 212223240083
 '''
 import pandas as pd
 from sklearn import linear_model
